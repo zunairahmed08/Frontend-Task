@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Brief Explanation of Design Decisions
 
 HTML:
@@ -25,3 +26,6 @@ Testing & usability:
 Tested on different browser sizes.
 
 Ensured webpage is visually clean, simple, and user-friendly.
+=======
+# Frontend-Task
+>>>>>>> b57830aa343ec02c20b8c6a69c0be891ca017a5c
